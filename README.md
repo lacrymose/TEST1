@@ -1,1 +1,1 @@
-hello world hello kitty hello universe
+This is a test for practicing git usage
