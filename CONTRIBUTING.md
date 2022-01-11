@@ -1,2 +1,1 @@
-hello git1
-hello kitty1
+hello git1 hello kitty1
